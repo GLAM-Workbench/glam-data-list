@@ -2,6 +2,27 @@
 
 See [GLAM Workbench](https://glam-workbench.github.io/glam-data-portals/) for harvesting code and summary.
 
+* [History Trust of South Australia](#history-trust-of-south-australia)
+* [Libraries Tasmania](#libraries-tasmania)
+* [Mount Gambier Library](#mount-gambier-library)
+* [Museum of Applied Arts and Sciences](#museum-of-applied-arts-and-sciences)
+* [NSW State Archives](#nsw-state-archives)
+* [National Archives of Australia](#national-archives-of-australia)
+* [National Library of Australia](#national-library-of-australia)
+* [PROV Public Record Office](#prov-public-record-office)
+* [Queensland State Archives](#queensland-state-archives)
+* [South Australian Museum](#south-australian-museum)
+* [State Library of NSW](#state-library-of-nsw)
+* [State Library of New South Wales](#state-library-of-new-south-wales)
+* [State Library of Queensland](#state-library-of-queensland)
+* [State Library of South Australia](#state-library-of-south-australia)
+* [State Library of Victoria](#state-library-of-victoria)
+* [State Library of Western Australia](#state-library-of-western-australia)
+* [State Records](#state-records)
+* [State Records Office of Western Australia](#state-records-office-of-western-australia)
+* [Tasmanian Museum and Art Gallery](#tasmanian-museum-and-art-gallery)
+* [Western Australian Museum](#western-australian-museum)
+
 ## History Trust of South Australia
 
 ### [Bond Studios Glass Negative Collection](https://data.sa.gov.au/data/dataset/94fb167a-65a2-491b-ab3e-c40f96351882)
