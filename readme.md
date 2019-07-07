@@ -11,6 +11,7 @@
 ### Full text
 
 * [Commonwealth Parliamentary Debates (Hansard), 1901-1980](https://github.com/GLAM-Workbench/glam-data-list.git) (harvested from Parliamentary Library)
+* [Hansard interjections](https://github.com/wragge/hansard-interjections)
 * [Australian Government Gazettes (1832-1968)](https://help.nla.gov.au/trove/the-australian-government-gazettes-1832-1968) (Trove)
 * [Federal Election speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
 * [Prime Ministers transcripts](https://github.com/wragge/pm-transcripts) (harvested from DPMC)
@@ -37,6 +38,7 @@
 * [CSV formatted list of journals available from Trove in digital form](https://glam-workbench.github.io/trove-journals/#csv-formatted-list-of-journals-available-from-trove-in-digital-form) (harvested from Trove)
 * [CSV formatted list of journals in Trove with OCRd text](https://glam-workbench.github.io/trove-journals/#csv-formatted-list-of-journals-with-ocrd-text) (harvested from Trove)
 * [CSV formatted Trove lists metadata](https://glam-workbench.github.io/trove-lists/#trove-lists-metadata) (harvested from Trove)
+* [Geolocated Trove newspaper titles](https://docs.google.com/spreadsheets/d/1rURriHBSf3MocI8wsdl1114t0YeyU0BVSXWeg232MZs/edit?usp=sharing)
 * [Files in the National Archives of Australia withheld from public access in 2017](https://doi.org/10.6084/m9.figshare.5900125.v1) (harvested from NAA)
 * [Files in the National Archives of Australia withheld from public access in 2016](https://doi.org/10.6084/m9.figshare.4530851.v1) (harvested from NAA)
 * [Files in the National Archives of Australia withheld from public access in 2015](https://doi.org/10.6084/m9.figshare.2060052.v1) (harvested from NAA)
