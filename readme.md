@@ -13,7 +13,7 @@
 * [Commonwealth Parliamentary Debates (Hansard), 1901-1980](https://github.com/GLAM-Workbench/glam-data-list.git) (harvested from Parliamentary Library)
 * [Australian Government Gazettes (1832-1968)](https://help.nla.gov.au/trove/the-australian-government-gazettes-1832-1968) (Trove)
 * [Federal Election speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
-* [PMs transcripts](https://github.com/wragge/pm-transcripts) (harvested from DPMC)
+* [Prime Ministers transcripts](https://github.com/wragge/pm-transcripts) (harvested from DPMC)
 * [OCRd text from Trove digitised books (and ephemera)](https://glam-workbench.github.io/trove-books/#ocrd-text-from-trove-books-and-ephemera) (harvested from Trove)
 * [OCRd text from the Internet Archive of 'Australian' books listed in Trove](https://glam-workbench.github.io/trove-books/#ocrd-text-from-the-internet-archive-of-australian-books-listed-in-trove) (harvested from Trove and Internet Archive)
 * [OCRd text of Trove digitised journals](https://glam-workbench.github.io/trove-journals/#ocrd-text-from-trove-digitised-journals) (harvested from Trove)
@@ -56,6 +56,7 @@
 * [Museums Victoria](https://collections.museumvictoria.com.au/developers)
 * [State Library of Victoria](http://api.slv.vic.gov.au/)
 * [Australian War Memorial](https://api.awm.gov.au/#introduction)
+* [Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
 * [Trove Faces API](https://faceapi.herokuapp.com/)
 
 ## Contributing to this list
