@@ -49,6 +49,8 @@
 
 * [Australian Data Archive](https://ada.edu.au/)
 * [Tinker Reference Datasets](https://tinker.edu.au/data/available-datasets/)
+* [HuNI](https://huni.net.au/)
+* [Atlas of Living Australia](https://www.ala.org.au/)
 * [Western Australian Museum](http://data.museum.wa.gov.au/search/type/dataset)
 
 ## Collection APIs

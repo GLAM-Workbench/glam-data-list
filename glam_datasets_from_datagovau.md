@@ -2,6 +2,8 @@
 
 See [GLAM Workbench](https://glam-workbench.github.io/glam-data-portals/) for harvesting code and summary.
 
+* [Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)](#australian-institute-of-aboriginal-and-torres-strait-islander-studies-aiatsis)
+* [Australian Museum](#australian-museum)
 * [History Trust of South Australia](#history-trust-of-south-australia)
 * [Libraries Tasmania](#libraries-tasmania)
 * [Mount Gambier Library](#mount-gambier-library)
@@ -9,6 +11,7 @@ See [GLAM Workbench](https://glam-workbench.github.io/glam-data-portals/) for ha
 * [NSW State Archives](#nsw-state-archives)
 * [National Archives of Australia](#national-archives-of-australia)
 * [National Library of Australia](#national-library-of-australia)
+* [National Portrait Gallery](#national-portrait-gallery)
 * [PROV Public Record Office](#prov-public-record-office)
 * [Queensland State Archives](#queensland-state-archives)
 * [South Australian Museum](#south-australian-museum)
@@ -22,6 +25,24 @@ See [GLAM Workbench](https://glam-workbench.github.io/glam-data-portals/) for ha
 * [State Records Office of Western Australia](#state-records-office-of-western-australia)
 * [Tasmanian Museum and Art Gallery](#tasmanian-museum-and-art-gallery)
 * [Western Australian Museum](#western-australian-museum)
+
+
+## Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)
+
+### [AUSTLANG dataset 001](https://data.gov.au/data/dataset/70132e6f-259c-4e0f-9f95-4aed1101c053)
+* [AUSTLANG dataset 001](https://data.gov.au/data/dataset/70132e6f-259c-4e0f-9f95-4aed1101c053/resource/e9a9ea06-d821-4b53-a05f-877409a1a19c/download/aiatsis_austlang_endpoint_001.csv) (CSV, 2019-05-15T02:55:39Z)
+* [AUSTLANG dataset 001](https://collection.aiatsis.gov.au/datasets/austlang/001) (PAGE, 2019-05-15T03:47:35Z)
+
+### [The NSW Aborigines Protection/Welfare Board 1883-1969 Map](https://data.gov.au/data/dataset/11cbf24a-a31a-488c-bc65-2811da2a8582)
+* [AWB NSW map](https://data.gov.au/dataset/11cbf24a-a31a-488c-bc65-2811da2a8582/resource/30096cbe-e2a7-48ec-9761-c5564ece85bd/download/nsw-missions.csv) (CSV, 2018-05-31T10:40:44Z)
+
+## Australian Museum
+
+### [Streamwatch](https://data.nsw.gov.au/data/dataset/8117fc5a-deb2-4aca-abe8-9eccbae30606)
+* [PDF Metadata - Streamwatch](https://datasets.seed.nsw.gov.au/dataset/6069288a-bca7-464e-901d-199042108414/resource/b3265024-fc40-412e-804f-6784e94b90eb/download/cdatagisstreamwatch-metadata.pdf) (PDF, 2019-06-04T00:02:42Z)
+* [PDF Data Quality Statement - Streamwatch](https://datasets.seed.nsw.gov.au/dataset/6069288a-bca7-464e-901d-199042108414/resource/825a23c5-b38b-4e0f-a64e-0e0dd3113aee/download/cdatastreamwatchdqs_190417.pdf) (PDF, 2019-06-04T00:02:42Z)
+* [PDF Manual - Streamwatch](https://datasets.seed.nsw.gov.au/dataset/6069288a-bca7-464e-901d-199042108414/resource/38433794-79eb-4c53-a815-7a4ae7e3e577/download/cdatagisstreamwatch-manual.pdf) (PDF, 2019-06-04T00:02:42Z)
+* [Streamwatch data file](https://datasets.seed.nsw.gov.au/dataset/6069288a-bca7-464e-901d-199042108414/resource/05bf97fd-ff4c-4a31-a50a-ec60779dc1e2/download/cdatagisstreamwatch-data-file.xlsx) (XLSX, 2019-06-04T00:02:42Z)
 
 ## History Trust of South Australia
 
@@ -274,6 +295,12 @@ See [GLAM Workbench](https://glam-workbench.github.io/glam-data-portals/) for ha
 ### [Trove People and Organisations data](https://data.gov.au/data/dataset/b247e1c0-608d-495d-8583-8bc9de63c4ee)
 * [peopleaustralia](http://www.nla.gov.au/apps/srw/search/peopleaustralia) (PLAIN, 2013-05-12T10:23:26Z)
 * [peopleaustralia-os-description.xml](http://www.nla.gov.au/apps/srw/peopleaustralia-os-description.xml) (XML, 2013-05-12T10:23:28Z)
+
+## National Portrait Gallery
+
+### [Portraits and people](https://data.gov.au/data/dataset/a0acec3b-b034-4bf7-9ed9-1cb70c8559c8)
+* [Portraits and people](https://data.gov.au/dataset/a0acec3b-b034-4bf7-9ed9-1cb70c8559c8/resource/368da66e-f5e7-4fac-9022-d79244518919/download/portraitau-20160705.xml) (XML, 2016-07-19T13:08:41Z)
+* [About 'portraits & people' data](https://data.gov.au/dataset/a0acec3b-b034-4bf7-9ed9-1cb70c8559c8/resource/826345fe-c7a0-4dea-95db-e305eef0cb69/download/about-portraitspeople) (TXT, 2016-07-20T12:38:17Z)
 
 ## PROV Public Record Office
 
