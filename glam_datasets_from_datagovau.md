@@ -1,4 +1,4 @@
-# GLAM datasets harvested from data.gov.au (7 July 2019)
+# GLAM datasets harvested from data.gov.au (8 July 2019)
 
 See [GLAM Workbench](https://glam-workbench.github.io/glam-data-portals/) for harvesting code and summary.
 
