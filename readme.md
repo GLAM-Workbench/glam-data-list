@@ -2,7 +2,7 @@
 
 ## GLAM datasets on data.gov.au
 
-* [Human readable list of GLAM datasets harvested from data.gov.au (July 2019)](glam_datasets_from_datagovau.md)
+* [Human readable list of GLAM datasets harvested from data.gov.au (July 2019)](https://github.com/GLAM-Workbench/glam-data-list/blob/master/glam_datasets_from_datagovau.md)
 * [CSV formatted list of GLAM datasets harvested from data.gov.au (July 2019)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam_datasets_all_formats_from_datagovau.csv)
 * [CSV formatted list of GLAM datasets (CSVs only) harvested from data.gov.au (July 2019)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam_datasets_csvs_from_datagovau.csv)
 
