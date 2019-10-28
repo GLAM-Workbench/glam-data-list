@@ -79,4 +79,8 @@ Created by [Tim Sherratt](https://timsherratt.org).
 
 Part of the [GLAM Workbench](https://glam-workbench.github.io/) project.
 
+Cite as:
+
+Tim Sherratt. (2019, October 28). GLAM-Workbench/glam-data-list (Version v0.1.0). Zenodo. http://doi.org/10.5281/zenodo.3520419
+
 [![DOI](https://zenodo.org/badge/195511088.svg)](https://zenodo.org/badge/latestdoi/195511088)
