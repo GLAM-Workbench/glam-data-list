@@ -78,3 +78,5 @@ Additions to this list are welcome. Either:
 Created by [Tim Sherratt](https://timsherratt.org).
 
 Part of the [GLAM Workbench](https://glam-workbench.github.io/) project.
+
+[![DOI](https://zenodo.org/badge/195511088.svg)](https://zenodo.org/badge/latestdoi/195511088)
