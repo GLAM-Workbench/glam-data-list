@@ -58,11 +58,12 @@
 
 ## Other portals providing access to GLAM data
 
-* [Atlas of Living Australia](https://support.ala.org.au/support/solutions/articles/6000196777-ala-api-how-to-access-ala-web-services)
-* [AusStage](https://www.ausstage.edu.au/pages/learn/about/data-sharing.html)
+* [Atlas of Living Australia](https://support.ala.org.au/support/solutions/articles/6000196777-ala-api-how-to-access-ala-web-services) (API)
+* [Austlit](https://www.austlit.edu.au/austlit/page/8448088) (beta API)
+* [AusStage](https://www.ausstage.edu.au/pages/learn/about/data-sharing.html) (API)
 * [Australian Data Archive](https://ada.edu.au/)
-* [Biodiversity Heritage Library](https://about.biodiversitylibrary.org/tools-and-services/developer-and-data-tools/)
-* [HuNI](https://bitbucket.org/huniteam/documentation/wiki/API)
+* [Biodiversity Heritage Library](https://about.biodiversitylibrary.org/tools-and-services/developer-and-data-tools/) (API)
+* [HuNI](https://bitbucket.org/huniteam/documentation/wiki/API) (API)
 * [Tinker Reference Datasets](https://tinker.edu.au/data/available-datasets/)
 * [Western Australian Museum](http://data.museum.wa.gov.au/search/type/dataset)
 
