@@ -2,9 +2,9 @@
 
 ## GLAM datasets from government data portals
 
-* [Human readable list of GLAM datasets harvested from data.gov.au (March 2020)](https://glam-workbench.github.io/glam-datasets-from-gov-portals/)
-* [CSV formatted list of GLAM datasets harvested from data.gov.au (March 2020)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals.csv)
-* [CSV formatted list of GLAM datasets (CSVs only) harvested from data.gov.au (March 2020)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals-csvs.csv)
+* [Human readable list of GLAM datasets harvested from government portals (March 2020)](https://glam-workbench.github.io/glam-datasets-from-gov-portals/)
+* [CSV formatted list of GLAM datasets harvested from government portals (March 2020)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals.csv)
+* [CSV formatted list of GLAM datasets (CSVs only) harvested from government portals (March 2020)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals-csvs.csv)
 
 ## Other downloadable datasets
 
