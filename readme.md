@@ -45,14 +45,6 @@
 * [Series in the National Archives of Australia with content recorded by the Australian Security Intelligence Organisation (ASIO)](https://glam-workbench.github.io/naa-asio/#data) (harvested from NAA)
 * [Series in the National Archives of Australia relating to the White Australia Policy](https://glam-workbench.github.io/naa-wap/#data) (harvested from NAA)
 
-## Other data portals
-
-* [Australian Data Archive](https://ada.edu.au/)
-* [Tinker Reference Datasets](https://tinker.edu.au/data/available-datasets/)
-* [HuNI](https://huni.net.au/)
-* [Atlas of Living Australia](https://www.ala.org.au/)
-* [Western Australian Museum](http://data.museum.wa.gov.au/search/type/dataset)
-
 ## Collection APIs
 
 * [Trove](https://help.nla.gov.au/trove/building-with-trove/api)
@@ -63,6 +55,18 @@
 * [Australian War Memorial](https://api.awm.gov.au/#introduction)
 * [Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
 * [Trove Faces API](https://faceapi.herokuapp.com/)
+* [Victorian Heritage API](https://developer.vic.gov.au/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiName=Victorian%20Heritage%20API&apiId=36d97216-53b6-4a5c-8754-8b44b26a5e21&menuId=187)
+
+## Other portals providing access to GLAM data
+
+* [Atlas of Living Australia](https://support.ala.org.au/support/solutions/articles/6000196777-ala-api-how-to-access-ala-web-services) (API)
+* [Austlit](https://www.austlit.edu.au/austlit/page/8448088) (beta API)
+* [AusStage](https://www.ausstage.edu.au/pages/learn/about/data-sharing.html) (API)
+* [Australian Data Archive](https://ada.edu.au/)
+* [Biodiversity Heritage Library](https://about.biodiversitylibrary.org/tools-and-services/developer-and-data-tools/) (API)
+* [HuNI](https://bitbucket.org/huniteam/documentation/wiki/API) (API)
+* [Tinker Reference Datasets](https://tinker.edu.au/data/available-datasets/)
+* [Western Australian Museum](http://data.museum.wa.gov.au/search/type/dataset)
 
 ## Contributing to this list
 
@@ -76,3 +80,7 @@ Additions to this list are welcome. Either:
 Created by [Tim Sherratt](https://timsherratt.org).
 
 Part of the [GLAM Workbench](https://glam-workbench.github.io/) project.
+
+Cite as: Tim Sherratt. (2019, October 28). GLAM-Workbench/glam-data-list (Version v0.1.0). Zenodo. http://doi.org/10.5281/zenodo.3520419
+
+[![DOI](https://zenodo.org/badge/195511088.svg)](https://zenodo.org/badge/latestdoi/195511088)
