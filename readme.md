@@ -10,7 +10,7 @@
 
 ### Full text
 
-* [Commonwealth Parliamentary Debates (Hansard), 1901-1980](https://github.com/GLAM-Workbench/glam-data-list.git) (harvested from Parliamentary Library)
+* [Commonwealth Parliamentary Debates (Hansard), 1901-1980](https://github.com/wragge/hansard-xml) (harvested from Parliamentary Library)
 * [Hansard interjections](https://github.com/wragge/hansard-interjections)
 * [Australian Government Gazettes (1832-1968)](https://help.nla.gov.au/trove/the-australian-government-gazettes-1832-1968) (Trove)
 * [Federal Election speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
