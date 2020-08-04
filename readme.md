@@ -48,6 +48,7 @@
 ## Collection APIs
 
 * [Trove](https://help.nla.gov.au/trove/building-with-trove/api)
+* [Australian Web Archive](https://glam-workbench.github.io/web-archives/) (via Memento and CDX API)
 * [National Museum of Australia](https://www.nma.gov.au/about/our-collection/our-apis)
 * [Museums Victoria](https://collections.museumvictoria.com.au/developers)
 * [Museum of Applied Arts and Sciences](https://api.maas.museum/docs)
