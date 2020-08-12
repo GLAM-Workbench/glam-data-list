@@ -47,7 +47,8 @@
 
 ## Collection APIs
 
-* [Trove](https://help.nla.gov.au/trove/building-with-trove/api)
+* [Trove](https://trove.nla.gov.au/about/create-something/using-api) – explore using the [Trove API Console](https://troveconsole.herokuapp.com/)
+* [Trove People and Organisations](https://trove.nla.gov.au/about/create-something/using-api/people-and-organisations-data)
 * [Australian Web Archive](https://glam-workbench.github.io/web-archives/) (via Memento and CDX API)
 * [National Museum of Australia](https://www.nma.gov.au/about/our-collection/our-apis)
 * [Museums Victoria](https://collections.museumvictoria.com.au/developers)
