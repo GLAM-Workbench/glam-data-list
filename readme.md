@@ -47,6 +47,7 @@
 
 ## Collection APIs
 
+* [State Library of NSW, Social Media Archive API](https://socialmediaarchive.sl.nsw.gov.au/docs/)
 * [Trove](https://trove.nla.gov.au/about/create-something/using-api) – explore using the [Trove API Console](https://troveconsole.herokuapp.com/)
 * [Trove People and Organisations](https://trove.nla.gov.au/about/create-something/using-api/people-and-organisations-data)
 * [Australian Web Archive](https://glam-workbench.github.io/web-archives/) (via Memento and CDX API)
