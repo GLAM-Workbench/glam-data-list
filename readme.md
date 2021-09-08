@@ -5,7 +5,7 @@
 * [Human readable list of GLAM datasets harvested from government portals (June 2021)](https://glam-workbench.github.io/glam-datasets-from-gov-portals/)
 * [CSV formatted list of GLAM datasets harvested from government portals (June 2021)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals.csv)
 * [CSV formatted list of GLAM datasets (CSVs only) harvested from government portals (June 2021)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals-csvs.csv)
-* [GLAM Name Index Search](https://glam-workbench.net/name-search/) – aggregated search across 195 datasets, containing 9.3 millions rows of data
+* [GLAM Name Index Search](https://glam-workbench.net/name-search/) – aggregated search across 195 datasets, containing 9.3 million rows of data
 
 ## Other downloadable datasets
 
@@ -26,6 +26,7 @@
 
 ### Images
 
+* [Australian Women's Weekly front covers, 1933 to 1982](https://glam-workbench.net/trove-newspapers/#australian-womens-weekly-front-covers-1933-to-1982) (harvested from Trove)
 * [Editorial cartoons from The Bulletin, 1886 to 1952](https://glam-workbench.github.io/trove-journals/#editorial-cartoons-from-the-bulletin-1886-to-1952) (harvested from Trove)
 * [DIY #redactionart](https://github.com/wragge/diy-redactionart) (harvested from NAA)
 * [Faces extracted from Trove newspaper photographs](https://doi.org/10.6084/m9.figshare.1439432.v1)
@@ -33,23 +34,29 @@
 ### Metadata
 
 * [ACMI collection data](https://github.com/ACMILabs/collection)
-* [State Archives of NSW indexes](https://github.com/wragge/srnsw-indexes) (harvested from SANSW)
-* [Tribune negatives collection SLNSW - all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1) (harvested from SLNSW)
-* [Radio National program data](https://github.com/wragge/radio-national-data) (harvested from Trove)
-* [List of maps in Trove with high-resolution downloads](https://glam-workbench.github.io/trove-maps/#csv-formatted-list-of-maps-with-high-resolution-downloads) (harvested from Trove)
-* [List of books available from Trove in digital form](https://glam-workbench.net/trove-books/#csv-formatted-list-of-books-available-in-digital-form) (harvested from Trove)
-* [List of periodicals available from Trove in digital form](https://glam-workbench.github.io/trove-journals/#csv-formatted-list-of-journals-available-from-trove-in-digital-form) (harvested from Trove)
-* [List of government publications available from Trove in digital form](https://glam-workbench.net/trove-books/#government-publications-in-digital-form) (harvested from Trove)
-* [List of periodicals in Trove with OCRd text](https://glam-workbench.github.io/trove-journals/#csv-formatted-list-of-journals-with-ocrd-text) (harvested from Trove)
-* [Public tags added to resources in Trove, 2008 to 2021](https://doi.org/10.5281/zenodo.5094314) (harvested from Trove)
-* [Trove public tag counts](https://glam-workbench.net/trove-lists/#trove-tag-counts) (harvested from Trove)
-* [Trove lists metadata](https://glam-workbench.github.io/trove-lists/#trove-lists-metadata) (harvested from Trove)
-* [Geolocated Trove newspaper titles](https://docs.google.com/spreadsheets/d/1rURriHBSf3MocI8wsdl1114t0YeyU0BVSXWeg232MZs/edit?usp=sharing)
+* [Australian Women's Weekly issues, 1933 to 1982](https://glam-workbench.net/trove-newspapers/#csv-formatted-list-of-australian-womens-weekly-issues-1933-to-1982) (harvested from Trove)
+* [Books available from Trove in digital form](https://glam-workbench.net/trove-books/#csv-formatted-list-of-books-available-in-digital-form) (harvested from Trove)
+* [Data showing when digitised newspaper titles were added to Trove](https://glam-workbench.net/trove-newspapers/#csv-formatted-lists-of-newspaper-titles-in-trove) (harvested from web archives)
 * [Files in the National Archives of Australia withheld from public access in 2017](https://doi.org/10.6084/m9.figshare.5900125.v1) (harvested from NAA)
 * [Files in the National Archives of Australia withheld from public access in 2016](https://doi.org/10.6084/m9.figshare.4530851.v1) (harvested from NAA)
 * [Files in the National Archives of Australia withheld from public access in 2015](https://doi.org/10.6084/m9.figshare.2060052.v1) (harvested from NAA)
+* [Geolocated Trove newspaper titles](https://docs.google.com/spreadsheets/d/1rURriHBSf3MocI8wsdl1114t0YeyU0BVSXWeg232MZs/edit?usp=sharing)
+* [Government publications available from Trove in digital form](https://glam-workbench.net/trove-books/#government-publications-in-digital-form) (harvested from Trove)
+* [Maps in Trove with high-resolution downloads](https://glam-workbench.github.io/trove-maps/#csv-formatted-list-of-maps-with-high-resolution-downloads) (harvested from Trove)
+* [Periodicals available from Trove in digital form](https://glam-workbench.github.io/trove-journals/#csv-formatted-list-of-journals-available-from-trove-in-digital-form) (harvested from Trove)
+* [Periodicals in Trove with OCRd text](https://glam-workbench.github.io/trove-journals/#csv-formatted-list-of-journals-with-ocrd-text) (harvested from Trove)
+* [Public tag counts in Trove](https://glam-workbench.net/trove-lists/#trove-tag-counts) (harvested from Trove)
+* [Public tags added to resources in Trove, 2008 to 2021](https://doi.org/10.5281/zenodo.5094314) (harvested from Trove)
+* [Radio National program data](https://glam-workbench.net/trove-music/#abc-radio-national-programs) (harvested from Trove)
+* [Recently digitised files in National Archives of Australia – repository of weekly snapshots](https://glam-workbench.net/recordsearch/#recently-digitised-files-repository-of-weekly-snapshots) (harvested from NAA)
 * [Series in the National Archives of Australia with content recorded by the Australian Security Intelligence Organisation (ASIO)](https://glam-workbench.github.io/naa-asio/#data) (harvested from NAA)
 * [Series in the National Archives of Australia relating to the White Australia Policy](https://glam-workbench.github.io/naa-wap/#data) (harvested from NAA)
+* [Summary data about all series in National Archives of Australia](https://glam-workbench.net/recordsearch/#summary-data-about-all-series-in-recordsearch) (harvested from NAA)
+* [State Archives of NSW indexes](https://github.com/wragge/srnsw-indexes) (harvested from SANSW)
+* [Tribune negatives collection SLNSW - all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1) (harvested from SLNSW)
+* [Trove lists metadata](https://glam-workbench.github.io/trove-lists/#trove-lists-metadata) (harvested from Trove)
+* [Trove newspapers with articles published after 1954](https://glam-workbench.net/trove-newspapers/#trove-newspapers-with-articles-published-after-1954) (harvested from Trove)
+* [Trove newspapers with non-English language content](https://glam-workbench.net/trove-newspapers/#trove-newspapers-with-non-english-language-content) (harvested from Trove)
 
 ## Collection APIs
 
