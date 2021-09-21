@@ -59,10 +59,10 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ### Images
 
-* [Australian Women's Weekly front covers, 1933 to 1982](https://glam-workbench.net/trove-newspapers/#australian-womens-weekly-front-covers-1933-to-1982) (harvested from Trove)
-* [Editorial cartoons from The Bulletin, 1886 to 1952](https://glam-workbench.github.io/trove-journals/#editorial-cartoons-from-the-bulletin-1886-to-1952) (harvested from Trove)
-* [DIY #redactionart](https://github.com/wragge/diy-redactionart) (harvested from NAA)
-* [Faces extracted from Trove newspaper photographs](https://doi.org/10.6084/m9.figshare.1439432.v1)
+* [NAA – DIY #redactionart](https://github.com/wragge/diy-redactionart) (via GLAM Workbench)
+* [Trove – Australian Women's Weekly front covers, 1933 to 1982](https://glam-workbench.net/trove-newspapers/#australian-womens-weekly-front-covers-1933-to-1982) (harvested from Trove)
+* [Trove – editorial cartoons from The Bulletin, 1886 to 1952](https://glam-workbench.github.io/trove-journals/#editorial-cartoons-from-the-bulletin-1886-to-1952) (harvested from Trove)
+* [Trove – faces extracted from Trove newspaper photographs](https://doi.org/10.6084/m9.figshare.1439432.v1)
 
 ### Metadata
 
