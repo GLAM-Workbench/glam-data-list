@@ -27,6 +27,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ## GLAM collection APIs
 
+* [ACMI public API](https://www.acmi.net.au/api/)
 * [Australian War Memorial](https://api.awm.gov.au/#introduction)
 * [Australian Web Archive](https://glam-workbench.github.io/web-archives/) (via Memento and CDX API)
 * [Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
