@@ -10,7 +10,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ### Tools to explore these datasets
 
-* [Search the harvested datasets using Datasette on Glitch](https://ozglam-datasets.glitch.me/data/glam-datasets-from-gov-portals)
+* [Search the harvested datasets using Datasette on Glitch](https://ozglam-datasets.glitch.me/data/glam-datasets)
 * [Visualise the contents of datasets using the GLAM CSV Explorer](https://glam-workbench.github.io/csv-explorer/)
 * [Search for names across GLAM indexes](https://glam-workbench.net/name-search/) – aggregated search across 196 datasets, containing 9.3 million rows of data
 
