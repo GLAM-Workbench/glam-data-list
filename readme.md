@@ -104,7 +104,9 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ## Contributing to this list
 
-Additions to this list are welcome. Either:
+* Click on the pencil icon to open the page for editing on GitHub.
+* [Follow these instructions](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository) to enter, preview, and save your suggested changes.
 
-1. Submit an issue in this repository.
-2. Fork this repository, make your changes, then submit a pull request.
+When you click on the pencil icon, GitHub automatically creates a copy of the repository in your own account. Once you've finished making your changes it'll prompt you to create a pull request, to feed the changes back to the main GLAM Workbench repository. Each pull request is reviewed before the changes go live.
+
+See [Add links to related resources](https://glam-workbench.net/get-involved/add-links/) for more information.
