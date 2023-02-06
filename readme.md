@@ -4,9 +4,9 @@
 
 These are datasets from a range of GLAM organisations around Australia that have been shared through state and national open government data portals. As of October 2021, there were 413 datasets, containing 1076 data files.
 
-* [Human readable list of GLAM datasets harvested from government portals (October 2021)](https://glam-workbench.github.io/glam-datasets-from-gov-portals/)
-* [CSV formatted list of GLAM datasets harvested from government portals (October 2021)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals.csv)
-* [CSV formatted list of GLAM datasets (CSVs only) harvested from government portals (October 2021)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals-csvs.csv)
+* [Human readable list of GLAM datasets harvested from government portals (August 2022)](https://glam-workbench.github.io/glam-datasets-from-gov-portals/)
+* [CSV formatted list of GLAM datasets harvested from government portals (August 2022)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals.csv)
+* [CSV formatted list of GLAM datasets (CSVs only) harvested from government portals (August 2022)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals-csvs.csv)
 
 ### Tools to explore these datasets
 
