@@ -34,6 +34,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [Museum of Applied Arts and Sciences](https://api.maas.museum/docs)
 * [Museums Victoria](https://collections.museumvictoria.com.au/developers)
 * [National Museum of Australia](https://www.nma.gov.au/about/our-collection/our-apis)
+* [Public Record Office Victoria Collection API](https://prov.vic.gov.au/prov-collection-api)
 * [Public Record Office Victoria MapWarper API](https://mapwarper.prov.vic.gov.au/api/v1/)
 * [State Library of NSW, Social Media Archive API](https://socialmediaarchive.sl.nsw.gov.au/docs/)
 * [State Library of Victoria](http://api.slv.vic.gov.au/)
