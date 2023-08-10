@@ -75,7 +75,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [NAA – series in the National Archives of Australia with content recorded by the Australian Security Intelligence Organisation (ASIO)](https://glam-workbench.github.io/naa-asio/#data) (via GLAM Workbench)
 * [NAA – series in the National Archives of Australia relating to the White Australia Policy](https://glam-workbench.github.io/naa-wap/#data) (via GLAM Workbench)
 * [NAA – summary data about all series in the National Archives of Australia](https://glam-workbench.net/recordsearch/#summary-data-about-all-series-in-recordsearch) (via GLAM Workbench)
-* [NSW State Archives indexes]([https://github.com/wragge/srnsw-indexes](https://glam-workbench.net/nsw-state-archives/index-repository/)) (via GLAM Workbench)
+* [NSW State Archives indexes](https://glam-workbench.net/nsw-state-archives/index-repository/) (via GLAM Workbench)
 * [SLNSW – Tribune negatives collection – all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1) ((via GLAM Workbench)
 * [Trove – Australian Women's Weekly issues, 1933 to 1982](https://glam-workbench.net/trove-newspapers/#csv-formatted-list-of-australian-womens-weekly-issues-1933-to-1982) (via GLAM Workbench)
 * [Trove – books available in digital form](https://glam-workbench.net/trove-books/#csv-formatted-list-of-books-available-in-digital-form) (via GLAM Workbench)
