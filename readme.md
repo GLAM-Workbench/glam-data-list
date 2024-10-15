@@ -32,6 +32,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
 * [Museums Victoria](https://collections.museumvictoria.com.au/developers)
 * [National Museum of Australia](https://www.nma.gov.au/about/our-collection/our-apis)
+* [PM Transcripts: Transcripts from the Prime Ministers of Australia](https://pmtranscripts.pmc.gov.au/developers)
 * [Public Record Office Victoria Collection API](https://prov.vic.gov.au/prov-collection-api)
 * [Public Record Office Victoria MapWarper API](https://mapwarper.prov.vic.gov.au/api/v1/)
 * [State Library of NSW, Social Media Archive API](https://socialmediaarchive.sl.nsw.gov.au/docs/)
