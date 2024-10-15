@@ -35,7 +35,6 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [Public Record Office Victoria Collection API](https://prov.vic.gov.au/prov-collection-api)
 * [Public Record Office Victoria MapWarper API](https://mapwarper.prov.vic.gov.au/api/v1/)
 * [State Library of NSW, Social Media Archive API](https://socialmediaarchive.sl.nsw.gov.au/docs/)
-* [State Library of Victoria](http://api.slv.vic.gov.au/)
 * [Trove](https://trove.nla.gov.au/about/create-something/using-api) – explore using the [Trove API Console](https://troveconsole.herokuapp.com/)
 * [Trove People and Organisations](https://trove.nla.gov.au/about/create-something/using-api/people-and-organisations-data)
 * [Victorian Heritage API](https://developer.vic.gov.au/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiName=Victorian%20Heritage%20API&apiId=36d97216-53b6-4a5c-8754-8b44b26a5e21&menuId=187)
