@@ -49,8 +49,6 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [NAA – Real Face of White Australia data](https://github.com/wragge/realface-data) (transcribed from National Archives of Australia: ST84/1)
 * [Parliamentary Library – Commonwealth Parliamentary Debates (Hansard), 1901-1980](https://github.com/wragge/hansard-xml) (via GLAM Workbench)
 * [Parliamentary Library – Hansard interjections](https://github.com/wragge/hansard-interjections) (via GLAM Workbench)
-* [Trove – Australian Aborigines Advocate (1908-1928)](https://trove.nla.gov.au/about/create-something/bulk-download-gazettes/australian-aborigines-advocate-1908-1928)
-* [Trove – Australian Government Gazettes (1832-1968)](https://trove.nla.gov.au/about/create-something/bulk-download-gazettes/australian-government-gazettes-1832-1968)
 * [Trove – OCRd text from digitised books (and ephemera)](https://glam-workbench.github.io/trove-books/#ocrd-text-from-trove-books-and-ephemera) (via GLAM Workbench)
 * [Trove – OCRd text of digitised journals](https://glam-workbench.github.io/trove-journals/#ocrd-text-from-trove-digitised-journals) (via GLAM Workbench)
 * [Trove & Internet Archive – OCRd text from the Internet Archive of 'Australian' books listed in Trove](https://glam-workbench.github.io/trove-books/#ocrd-text-from-the-internet-archive-of-australian-books-listed-in-trove) (via GLAM Workbench)
