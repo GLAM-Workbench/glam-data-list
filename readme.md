@@ -52,8 +52,8 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [Trove – OCRd text from digitised books (and ephemera)](https://glam-workbench.github.io/trove-books/#ocrd-text-from-trove-books-and-ephemera) (via GLAM Workbench)
 * [Trove – OCRd text of digitised journals](https://glam-workbench.github.io/trove-journals/#ocrd-text-from-trove-digitised-journals) (via GLAM Workbench)
 * [Trove & Internet Archive – OCRd text from the Internet Archive of 'Australian' books listed in Trove](https://glam-workbench.github.io/trove-books/#ocrd-text-from-the-internet-archive-of-australian-books-listed-in-trove) (via GLAM Workbench)
-* [Trove & Parliamentary Library – parliamentary press releases relating to COVID-19](https://glam-workbench.net/trove-journals/#politicians-talking-about-covid) (via GLAM Workbench)
-* [Trove & Parliamentary Library – parliamentary press releases relating to immigrants and refugees](https://glam-workbench.github.io/trove-journals/#politicians-talking-about-immigrants-and-refugees) (via GLAM Workbench)
+* [Trove & Parliamentary Library – parliamentary press releases relating to COVID-19](https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid/) (via GLAM Workbench)
+* [Trove & Parliamentary Library – parliamentary press releases relating to immigrants and refugees](https://glam-workbench.net/trove-government/trove-parliament-press-releases-refugees/) (via GLAM Workbench)
 
 ### Images
 
