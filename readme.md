@@ -21,7 +21,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [State Library of Queensland](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
 * [State Library of SA](https://www.slsa.sa.gov.au/open-data-sets)
 * [State Library of Victoria](https://www.slv.vic.gov.au/search-discover/open-data)
-* [State Library of WA](https://www.slwa.wa.gov.au/wa-story/wa-open-data)
+* [State Library of WA](https://slwa.wa.gov.au/collections/wa-open-data)
 * [Western Australian Museum](http://data.museum.wa.gov.au/search/type/dataset)
 
 ## GLAM collection APIs
