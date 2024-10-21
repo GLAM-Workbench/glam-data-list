@@ -64,7 +64,6 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ### Metadata
 
-* [ACMI collection data](https://github.com/ACMILabs/collection)
 * [NAA – files withheld from public access in 2017](https://doi.org/10.6084/m9.figshare.5900125.v1) (via GLAM Workbench)
 * [NAA – files withheld from public access in 2016](https://doi.org/10.6084/m9.figshare.4530851.v1) (via GLAM Workbench)
 * [NAA – files withheld from public access in 2015](https://doi.org/10.6084/m9.figshare.2060052.v1) (via GLAM Workbench)
