@@ -72,21 +72,73 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [NAA – series in the National Archives of Australia relating to the White Australia Policy](https://glam-workbench.github.io/naa-wap/#data) (via GLAM Workbench)
 * [NAA – summary data about all series in the National Archives of Australia](https://glam-workbench.net/recordsearch/#summary-data-about-all-series-in-recordsearch) (via GLAM Workbench)
 * [NSW State Archives indexes](https://glam-workbench.net/nsw-state-archives/index-repository/) (via GLAM Workbench)
-* [SLNSW – Tribune negatives collection – all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1) ((via GLAM Workbench)
-* [Trove – Australian Women's Weekly issues, 1933 to 1982](https://glam-workbench.net/trove-newspapers/#csv-formatted-list-of-australian-womens-weekly-issues-1933-to-1982) (via GLAM Workbench)
-* [Trove – books available in digital form](https://glam-workbench.net/trove-books/#csv-formatted-list-of-books-available-in-digital-form) (via GLAM Workbench)
-* [Trove – data from web archives showing when digitised newspaper titles were added to Trove](https://glam-workbench.net/trove-newspapers/#csv-formatted-lists-of-newspaper-titles-in-trove) (via GLAM Workbench)
-* [Trove – geolocated newspaper titles](https://docs.google.com/spreadsheets/d/1rURriHBSf3MocI8wsdl1114t0YeyU0BVSXWeg232MZs/edit?usp=sharing) (via GLAM Workbench)
-* [Trove – government publications available in digital form](https://glam-workbench.net/trove-books/#government-publications-in-digital-form) (via GLAM Workbench)
-* [Trove – lists metadata](https://glam-workbench.github.io/trove-lists/#trove-lists-metadata) (via GLAM Workbench)
-* [Trove – maps with high-resolution downloads](https://glam-workbench.github.io/trove-maps/#csv-formatted-list-of-maps-with-high-resolution-downloads) (via GLAM Workbench)
-* [Trove – newspapers with articles published after 1954](https://glam-workbench.net/trove-newspapers/#trove-newspapers-with-articles-published-after-1954) (via GLAM Workbench)
-* [Trove – newspapers with non-English language content](https://glam-workbench.net/trove-newspapers/#trove-newspapers-with-non-english-language-content) (via GLAM Workbench)
-* [Trove – periodicals available from in digital form](https://glam-workbench.github.io/trove-journals/#csv-formatted-list-of-journals-available-from-trove-in-digital-form) (via GLAM Workbench)
-* [Trove – periodicals in Trove with OCRd text](https://glam-workbench.github.io/trove-journals/#csv-formatted-list-of-journals-with-ocrd-text) (via GLAM Workbench)
-* [Trove – public tag counts](https://glam-workbench.net/trove-lists/#trove-tag-counts) (via GLAM Workbench)
-* [Trove – public tags added to resources, 2008 to 2021](https://doi.org/10.5281/zenodo.5094314) (via GLAM Workbench)
-* [Trove – Radio National program data](https://glam-workbench.net/trove-music/#abc-radio-national-programs) (via GLAM Workbench)
+* [SLNSW – Tribune negatives collection – all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1) (via GLAM Workbench)
+
+#### Trove books
+
+* [CSV formatted list of digitised books in Trove](https://glam-workbench.net/trove-books/csv-books-in-digital-form/) (via GLAM Workbench)
+
+#### Trove contributors
+
+* [List of organisations contributing metadata](https://glam-workbench.net/trove-contributors/trove-contributors-list/) (updated weekly)
+* [Count of records by contributor and zone](https://glam-workbench.net/trove-contributors/trove-contributors-zones/) (updated weekly)
+* [Count of records by contributor, zone, and format](https://glam-workbench.net/trove-contributors/trove-contributors-formats/) (updated weekly)
+
+#### Trove government
+
+* [Digitised Parliamentary Papers in Trove](https://glam-workbench.net/trove-government/trove-parliamentary-papers-data/)
+* [Parliamentary press releases relating to COVID-19](https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid/) (via GLAM Workbench)
+* [Parliamentary press releases relating to immigrants and refugees](https://glam-workbench.net/trove-government/trove-parliament-press-releases-refugees/) (via GLAM Workbench)
+
+#### Trove images
+
+* [Rights applied to images by each Trove contributor](https://glam-workbench.net/trove-images/trove-images-rights-data/)
+
+#### Trove lists and tags
+
+* [Trove lists metadata](https://glam-workbench.net/trove-lists/trove-lists-metadata/)
+* [Public tags added to Trove resources](https://glam-workbench.net/trove-lists/trove-public-tags/)
+* [Counts of public tags](https://glam-workbench.net/trove-lists/trove-tag-counts/)
+
+#### Trove manuscript finding aids
+
+* [NLA digitised finding aids: list of urls](https://glam-workbench.net/trove-unpublished/finding-aids-urls/)
+* [NLA digitised finding aids: summary information](https://glam-workbench.net/trove-unpublished/finding-aids-summary/)
+
+#### Trove maps
+
+* [Digitised maps metadata](https://glam-workbench.net/trove-maps/single-maps-data/)
+* [Coordinates of digitised maps](https://glam-workbench.net/trove-maps/single-maps-coordinates-data/)
+
+#### Trove newspapers
+
+* [Historical snapshots of newspaper totals](https://doi.org/10.5281/zenodo.6471544)
+* [Snapshots of newspaper data](https://github.com/wragge/trove-newspaper-totals) (updated weekly)
+* [Data about newspaper issues](https://glam-workbench.net/trove-newspapers/data-newspaper-issues/)
+* [Data from web archives showing when digitised newspaper titles were added to Trove](https://glam-workbench.net/trove-newspapers/csv-newspaper-titles-from-web-archives/)
+* [OCR corrections in Trove newspapers](https://glam-workbench.net/trove-newspapers/csv-newspapers-corrections/) (via GLAM Workbench)
+* [Newspapers with articles published after 1954](https://glam-workbench.net/trove-newspapers/csv-newspapers-post-54/) (via GLAM Workbench)
+* [Newspapers with non-English language content](https://glam-workbench.net/trove-newspapers/list-non-english-newspapers/) (via GLAM Workbench)
+* [Australian Women's Weekly issues, 1933 to 1982](https://glam-workbench.net/trove-newspapers/dataset-aww-covers/)
+* [Geolocated newspaper titles](https://docs.google.com/spreadsheets/d/1rURriHBSf3MocI8wsdl1114t0YeyU0BVSXWeg232MZs/edit?usp=sharing)
+
+#### Trove oral histories & sound
+
+* [Oral histories metadata](https://glam-workbench.net/trove-music/trove-oral-histories/)
+* [List of NLA oral history collections and projects](https://glam-workbench.net/trove-music/trove-oral-history-series/)
+* [ABC Radio National metadata](https://glam-workbench.net/trove-music/abcrn-data/)
+
+#### Trove periodicals
+
+* [Details of digitised periodicals from the `/magazine/titles` API endpoint](https://glam-workbench.net/trove-journals/periodicals-data-api/)
+* [CSV formatted list of journals available from Trove in digital form](https://glam-workbench.net/trove-journals/csv-digital-journals/) (via GLAM Workbench)
+* [Details of periodicals submitted to Trove through the National edeposit scheme (NED)](https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/)
+
+#### Trove web archives (Pandora)
+
+* [Pandora collections data](https://glam-workbench.net/trove-web-archives/pandora-collections-data/)
+* [Pandora titles data](https://glam-workbench.net/trove-web-archives/pandora-titles-data/)
+* [Pandora subject hierarchy](https://glam-workbench.net/trove-web-archives/pandora-subject-hierarchy/)
 
 ## Other portals providing access to machine-readable GLAM data
 
