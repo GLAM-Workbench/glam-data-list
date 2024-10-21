@@ -23,8 +23,8 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 * [ACMI public API](https://www.acmi.net.au/api/)
 * [Australian War Memorial](https://api.awm.gov.au/#introduction)
-* [Australian Web Archive](https://glam-workbench.github.io/web-archives/) (via Memento and CDX API)
-* [Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore) (Museum of Australian Democracy)
+* [Australian Web Archive](https://glam-workbench.github.io/web-archives/) (Memento and CDX API)
+* [Museum of Australian Democracy &ndash; Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore)
 * [Museums Victoria](https://collections.museumvictoria.com.au/developers)
 * [National Museum of Australia](https://www.nma.gov.au/about/our-collection/our-apis)
 * [PM Transcripts: Transcripts from the Prime Ministers of Australia](https://pmtranscripts.pmc.gov.au/developers)
@@ -39,39 +39,39 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ### Full text
 
-* [DPMC – Prime Ministers transcripts](https://github.com/wragge/pm-transcripts) (via GLAM Workbench)
-* [MoAD – Federal Election speeches](https://electionspeeches.moadoph.gov.au/explore)
-* [NAA – Real Face of White Australia data](https://github.com/wragge/realface-data) (transcribed from National Archives of Australia: ST84/1)
-* [Parliamentary Library – Commonwealth Parliamentary Debates (Hansard), 1901-1980](https://github.com/wragge/hansard-xml) (via GLAM Workbench)
-* [Parliamentary Library – Hansard interjections](https://github.com/wragge/hansard-interjections) (via GLAM Workbench)
-* [Trove – OCRd text from digitised books (and ephemera)](https://glam-workbench.net/trove-books/ocrd-text-from-trove-books/) (via GLAM Workbench)
-* [Trove – OCRd text of digitised journals](https://glam-workbench.net/trove-journals/ocrd-text-all-journals/) (via GLAM Workbench)
-* [Trove & Internet Archive – OCRd text from the Internet Archive of 'Australian' books listed in Trove](https://glam-workbench.net/trove-books/ocrd-text-from-ia/) (via GLAM Workbench)
-* [Trove & Parliamentary Library – parliamentary press releases relating to COVID-19](https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid/) (via GLAM Workbench)
-* [Trove & Parliamentary Library – parliamentary press releases relating to immigrants and refugees](https://glam-workbench.net/trove-government/trove-parliament-press-releases-refugees/) (via GLAM Workbench)
+* [Department of Prime Minister & Cabinet – Prime Ministers transcripts](https://github.com/wragge/pm-transcripts) 
+* [Museum of Australian Democracy – Federal Election speeches](https://electionspeeches.moadoph.gov.au/explore)
+* [National Archives of Australia – Real Face of White Australia transcribed data](https://github.com/wragge/realface-data)
+* [Parliamentary Library – Commonwealth Parliamentary Debates (Hansard), 1901-2005](https://github.com/wragge/hansard-xml)
+* [Parliamentary Library – Hansard interjections](https://github.com/wragge/hansard-interjections)
+* [Trove – OCRd text from digitised books (and ephemera)](https://glam-workbench.net/trove-books/ocrd-text-from-trove-books/)
+* [Trove – OCRd text of digitised journals](https://glam-workbench.net/trove-journals/ocrd-text-all-journals/)
+* [Trove & Internet Archive – OCRd text from the Internet Archive of 'Australian' books listed in Trove](https://glam-workbench.net/trove-books/ocrd-text-from-ia/)
+* [Trove & Parliamentary Library – parliamentary press releases relating to COVID-19](https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid/)
+* [Trove & Parliamentary Library – parliamentary press releases relating to immigrants and refugees](https://glam-workbench.net/trove-government/trove-parliament-press-releases-refugees/)
 
 ### Images
 
-* [NAA – DIY #redactionart](https://github.com/wragge/diy-redactionart) (via GLAM Workbench)
-* [Trove – Australian Women's Weekly front covers, 1933 to 1982](https://glam-workbench.net/trove-newspapers/dataset-aww-covers/) (via GLAM Workbench)
-* [Trove – editorial cartoons from The Bulletin, 1886 to 1952](https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/) (via GLAM Workbench)
+* [National Archives of Australia – DIY #redactionart](https://github.com/wragge/diy-redactionart)
+* [Trove – Australian Women's Weekly front covers, 1933 to 1982](https://glam-workbench.net/trove-newspapers/dataset-aww-covers/)
+* [Trove – editorial cartoons from The Bulletin, 1886 to 1952](https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/)
 * [Trove – faces extracted from Trove newspaper photographs](https://doi.org/10.6084/m9.figshare.1439432.v1)
 
 ### Metadata
 
-* [NAA – files withheld from public access in 2017](https://doi.org/10.6084/m9.figshare.5900125.v1) (via GLAM Workbench)
-* [NAA – files withheld from public access in 2016](https://doi.org/10.6084/m9.figshare.4530851.v1) (via GLAM Workbench)
-* [NAA – files withheld from public access in 2015](https://doi.org/10.6084/m9.figshare.2060052.v1) (via GLAM Workbench)
-* [NAA – recently digitised files in National Archives of Australia – repository of weekly snapshots](https://glam-workbench.net/recordsearch/#recently-digitised-files-repository-of-weekly-snapshots) (via GLAM Workbench)
-* [NAA – series in the National Archives of Australia with content recorded by the Australian Security Intelligence Organisation (ASIO)](https://glam-workbench.github.io/naa-asio/#data) (via GLAM Workbench)
-* [NAA – series in the National Archives of Australia relating to the White Australia Policy](https://glam-workbench.github.io/naa-wap/#data) (via GLAM Workbench)
-* [NAA – summary data about all series in the National Archives of Australia](https://glam-workbench.net/recordsearch/#summary-data-about-all-series-in-recordsearch) (via GLAM Workbench)
-* [NSW State Archives indexes](https://glam-workbench.net/nsw-state-archives/index-repository/) (via GLAM Workbench)
-* [SLNSW – Tribune negatives collection – all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1) (via GLAM Workbench)
+* [National Archives of Australia – files withheld from public access in 2017](https://doi.org/10.6084/m9.figshare.5900125.v1)
+* [National Archives of Australia – files withheld from public access in 2016](https://doi.org/10.6084/m9.figshare.4530851.v1)
+* [National Archives of Australia – files withheld from public access in 2015](https://doi.org/10.6084/m9.figshare.2060052.v1)
+* [National Archives of Australia – recently digitised files in National Archives of Australia – repository of weekly snapshots](https://glam-workbench.net/recordsearch/#recently-digitised-files-repository-of-weekly-snapshots)
+* [National Archives of Australia – series in the National Archives of Australia with content recorded by the Australian Security Intelligence Organisation (ASIO)](https://glam-workbench.github.io/naa-asio/#data)
+* [National Archives of Australia – series in the National Archives of Australia relating to the White Australia Policy](https://glam-workbench.github.io/naa-wap/#data)
+* [National Archives of Australia – summary data about all series in the National Archives of Australia](https://glam-workbench.net/recordsearch/#summary-data-about-all-series-in-recordsearch)
+* [NSW State Archives indexes](https://glam-workbench.net/nsw-state-archives/index-repository/)
+* [State Library of NSW – Tribune negatives collection – all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1)
 
 #### Trove books
 
-* [CSV formatted list of digitised books in Trove](https://glam-workbench.net/trove-books/csv-books-in-digital-form/) (via GLAM Workbench)
+* [CSV formatted list of digitised books in Trove](https://glam-workbench.net/trove-books/csv-books-in-digital-form/)
 
 #### Trove contributors
 
@@ -82,8 +82,8 @@ These are datasets from a range of GLAM organisations around Australia that have
 #### Trove government
 
 * [Digitised Parliamentary Papers in Trove](https://glam-workbench.net/trove-government/trove-parliamentary-papers-data/)
-* [Parliamentary press releases relating to COVID-19](https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid/) (via GLAM Workbench)
-* [Parliamentary press releases relating to immigrants and refugees](https://glam-workbench.net/trove-government/trove-parliament-press-releases-refugees/) (via GLAM Workbench)
+* [Parliamentary press releases relating to COVID-19](https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid/)
+* [Parliamentary press releases relating to immigrants and refugees](https://glam-workbench.net/trove-government/trove-parliament-press-releases-refugees/)
 
 #### Trove images
 
@@ -111,9 +111,9 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [Snapshots of newspaper data](https://github.com/wragge/trove-newspaper-totals) (updated weekly)
 * [Data about newspaper issues](https://glam-workbench.net/trove-newspapers/data-newspaper-issues/)
 * [Data from web archives showing when digitised newspaper titles were added to Trove](https://glam-workbench.net/trove-newspapers/csv-newspaper-titles-from-web-archives/)
-* [OCR corrections in Trove newspapers](https://glam-workbench.net/trove-newspapers/csv-newspapers-corrections/) (via GLAM Workbench)
-* [Newspapers with articles published after 1954](https://glam-workbench.net/trove-newspapers/csv-newspapers-post-54/) (via GLAM Workbench)
-* [Newspapers with non-English language content](https://glam-workbench.net/trove-newspapers/list-non-english-newspapers/) (via GLAM Workbench)
+* [OCR corrections in Trove newspapers](https://glam-workbench.net/trove-newspapers/csv-newspapers-corrections/)
+* [Newspapers with articles published after 1954](https://glam-workbench.net/trove-newspapers/csv-newspapers-post-54/)
+* [Newspapers with non-English language content](https://glam-workbench.net/trove-newspapers/list-non-english-newspapers/)
 * [Australian Women's Weekly issues, 1933 to 1982](https://glam-workbench.net/trove-newspapers/dataset-aww-covers/)
 * [Geolocated newspaper titles](https://docs.google.com/spreadsheets/d/1rURriHBSf3MocI8wsdl1114t0YeyU0BVSXWeg232MZs/edit?usp=sharing)
 
@@ -126,7 +126,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 #### Trove periodicals
 
 * [Details of digitised periodicals from the `/magazine/titles` API endpoint](https://glam-workbench.net/trove-journals/periodicals-data-api/)
-* [CSV formatted list of journals available from Trove in digital form](https://glam-workbench.net/trove-journals/csv-digital-journals/) (via GLAM Workbench)
+* [CSV formatted list of journals available from Trove in digital form](https://glam-workbench.net/trove-journals/csv-digital-journals/)
 * [Details of periodicals submitted to Trove through the National edeposit scheme (NED)](https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/)
 
 #### Trove web archives (Pandora)
@@ -138,7 +138,6 @@ These are datasets from a range of GLAM organisations around Australia that have
 ## Other portals providing access to machine-readable GLAM data
 
 * [Atlas of Living Australia](https://support.ala.org.au/support/solutions/articles/6000196777-ala-api-how-to-access-ala-web-services) (API)
-* [Austlit](https://www.austlit.edu.au/austlit/page/8448088) (beta API)
 * [AusStage](https://www.ausstage.edu.au/pages/learn/about/data-sharing.html) (API)
 * [Australian Data Archive](https://ada.edu.au/)
 * [Biodiversity Heritage Library](https://about.biodiversitylibrary.org/tools-and-services/developer-and-data-tools/) (API)
