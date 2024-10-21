@@ -33,6 +33,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [State Library of NSW, Social Media Archive API](https://socialmediaarchive.sl.nsw.gov.au/docs/)
 * [Trove](https://trove.nla.gov.au/about/create-something/using-api) – explore using the [Trove API Console](https://troveconsole.herokuapp.com/)
 * [Trove People and Organisations](https://trove.nla.gov.au/about/create-something/using-api/people-and-organisations-data)
+* [Victorian Collections API](https://victoriancollections.net.au/about/api)
 * [Victorian Heritage Database API](https://api.heritagecouncil.vic.gov.au/documentation/VHD-v1)
 
 ## Other downloadable datasets
