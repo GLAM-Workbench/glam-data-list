@@ -2,17 +2,12 @@
 
 ## GLAM datasets from government data portals
 
-These are datasets from a range of GLAM organisations around Australia that have been shared through state and national open government data portals. As of August 2022, there were 463 datasets, containing 1192 data files.
+These are datasets from a range of GLAM organisations around Australia that have been shared through state and national open government data portals. As of October 2024, there were **443 datasets, containing 1251 data files, from 22 organisations**.
 
-* [Human readable list of GLAM datasets harvested from government portals (August 2022)](https://glam-workbench.github.io/glam-datasets-from-gov-portals/)
-* [CSV formatted list of GLAM datasets harvested from government portals (August 2022)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals.csv)
-* [CSV formatted list of GLAM datasets (CSVs only) harvested from government portals (August 2022)](https://github.com/GLAM-Workbench/ozglam-data/blob/master/glam-datasets-from-gov-portals-csvs.csv)
-
-### Tools to explore these datasets
-
-* [Search the harvested datasets using Datasette on Glitch](https://ozglam-datasets.glitch.me/data/glam-datasets)
+* [List of GLAM datasets harvested from government portals (October 2024)](https://glam-workbench.net/glam-datasets-from-gov-portals/)
+* [Search the harvested metadata using Datasette]([https://ozglam-datasets.glitch.me/data/glam-datasets](https://glam-workbench.net/datasette-lite/?csv=https%3A%2F%2Fgithub.com%2FGLAM-Workbench%2Fgov-portals-data%2Fblob%2Fmain%2Fglam-datasets-from-gov-portals.csv&install=datasette-homepage-table&fts=dataset_title%2Cdataset_description%2Cfile_title%2Cfile_description))
 * [Visualise the contents of datasets using the GLAM CSV Explorer](https://glam-workbench.github.io/csv-explorer/)
-* [Search for names across GLAM indexes](https://glam-workbench.net/name-search/) – aggregated search across 253 datasets, containing more than 9 million rows of data
+* [Search for people in GLAM name indexes](https://glam-workbench.net/name-search/) – aggregated search across 279 datasets, containing more than 11 million rows of data
 
 ## GLAM data portals & repositories
 
