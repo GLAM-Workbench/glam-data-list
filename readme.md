@@ -145,6 +145,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [Biodiversity Heritage Library](https://about.biodiversitylibrary.org/tools-and-services/developer-and-data-tools/) (API)
 * [Gazetteer of Historical Australian Placenames](https://www.tlcmap.org/guides/ghap/#ws) (API)
 * [HuNI](https://bitbucket.org/huniteam/documentation/wiki/API) (API)
+* [Language Data Commons of Australia](https://data.ldaca.edu.au/search)
 
 ## Zotero compatibility
 
