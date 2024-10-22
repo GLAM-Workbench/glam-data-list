@@ -146,6 +146,23 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [Gazetteer of Historical Australian Placenames](https://www.tlcmap.org/guides/ghap/#ws) (API)
 * [HuNI](https://bitbucket.org/huniteam/documentation/wiki/API) (API)
 
+## Zotero compatibility
+
+Custom [Zotero](https://www.zotero.org/) translators or embedded metadata allow the capture of metadata and digitised objects from the following GLAM databases:
+
+* [Analysis & Policy Observatory](https://apo.org.au/)
+* [ANU Open Research Repository](https://openresearch-repository.anu.edu.au/)
+* [AustLII](http://www.austlii.edu.au/)
+* [Libraries Tasmania](https://librariestas.ent.sirsidynix.net.au/client/en_AU/library/search/results?qu=)
+* [National Archives of Australia](https://recordsearch.naa.gov.au/)
+* [National Gallery of Australia](https://searchthecollection.nga.gov.au/landing)
+* [Public Record Office Victoria](https://prov.vic.gov.au/explore-collection)
+* [Queensland State Archives](https://www.archivessearch.qld.gov.au/)
+* [State Records Office of Western Australia](https://archive.sro.wa.gov.au/)
+* [Trove](https://trove.nla.gov.au/)
+
+For more information on Zotero support within the Australian GLAM sector see [this spreadsheet](https://docs.google.com/spreadsheets/d/1Zb_e9ZazP4zs-K8ZcbaTCnv6cO_OgmUx4A7U4MFyOFE/edit?usp=sharing).
+
 ## Contributing to this list
 
 * Click on the pencil icon to open the page for editing on GitHub.
