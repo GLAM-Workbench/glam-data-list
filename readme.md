@@ -12,7 +12,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 ## GLAM data portals & repositories
 
 * [Collab (SA)](https://collab.sa.gov.au/dataset/)
-* [Libraries Tasmania](https://libraries.tas.gov.au/archive-heritage/Pages/Open-Data.aspx)
+* [Libraries Tasmania](https://libraries.tas.gov.au/slat/open-data/)
 * [State Library of Queensland](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
 * [State Library of SA](https://www.slsa.sa.gov.au/open-data-sets)
 * [State Library of Victoria](https://www.slv.vic.gov.au/search-discover/open-data)
