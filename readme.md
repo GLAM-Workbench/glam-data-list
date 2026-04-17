@@ -11,7 +11,6 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ## GLAM data portals & repositories
 
-* [Collab (SA)](https://collab.sa.gov.au/dataset/)
 * [Libraries Tasmania](https://libraries.tas.gov.au/slat/open-data/)
 * [State Library of Queensland](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
 * [State Library of SA](https://www.slsa.sa.gov.au/open-data-sets)
@@ -26,7 +25,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [Australian War Memorial](https://api.awm.gov.au/#introduction)
 * [Australian Web Archive](https://glam-workbench.github.io/web-archives/) (Memento and CDX API)
 * [Museum of Australian Democracy &ndash; Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore)
-* [Museums Victoria](https://collections.museumvictoria.com.au/developers)
+* [Museums Victoria](https://collections.museumsvictoria.com.au/developers)
 * [National Museum of Australia](https://www.nma.gov.au/about/our-collection/our-apis)
 * [PM Transcripts: Transcripts from the Prime Ministers of Australia](https://pmtranscripts.pmc.gov.au/developers)
 * [Public Record Office Victoria Collection API](https://prov.vic.gov.au/prov-collection-api)
