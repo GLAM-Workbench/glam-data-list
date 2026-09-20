@@ -51,6 +51,8 @@ These are datasets from a range of GLAM organisations around Australia that have
 ### Images
 
 * [National Archives of Australia – DIY #redactionart](https://github.com/wragge/diy-redactionart)
+* [State Library of Victoria – In Memory | Of Being unidentified image dataset](https://lab.slv.vic.gov.au/resources/imob-unidentified-image-dataset)
+* [State Library of Victoria – Public Domain image dataset](https://lab.slv.vic.gov.au/resources/public-domain-image-dataset)
 * [Trove – Australian Women's Weekly front covers, 1933 to 1982](https://glam-workbench.net/trove-newspapers/dataset-aww-covers/)
 * [Trove – editorial cartoons from The Bulletin, 1886 to 1952](https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/)
 * [Trove – faces extracted from Trove newspaper photographs](https://doi.org/10.6084/m9.figshare.1439432.v1)
