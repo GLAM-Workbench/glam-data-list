@@ -60,6 +60,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 * [ANU Archives &ndash; Sydney Stock Exchange records](https://glam-workbench.net/anu-archives/#data-files)
 * [NSW State Archives indexes](https://glam-workbench.net/nsw-state-archives/index-repository/)
 * [State Library of NSW – Tribune negatives collection – all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1)
+* [State Library of Victoria – digitised maps georeferenced using Allmaps](https://github.com/wragge/slv-allmaps)
 
 #### National Archives of Australia
 
