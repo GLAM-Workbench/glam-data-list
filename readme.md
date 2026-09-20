@@ -2,9 +2,9 @@
 
 ## GLAM datasets from government data portals
 
-These are datasets from a range of GLAM organisations around Australia that have been shared through state and national open government data portals. As of April 2026, there were **446 datasets, containing 1283 data files, from 23 organisations**.
+These are datasets from a range of GLAM organisations around Australia that have been shared through state and national open government data portals. As of April 2026, there were **492 datasets, containing 1,515 data files, from 45 organisations**.
 
-* [List of GLAM datasets harvested from government portals (October 2024)](https://glam-workbench.net/glam-datasets-from-gov-portals/)
+* [List of GLAM datasets harvested from government portals (September 2026)](https://glam-workbench.net/glam-datasets-from-gov-portals/)
 * [Search the harvested metadata using Datasette](https://glam-workbench.net/datasette-lite/?csv=https%3A%2F%2Fgithub.com%2FGLAM-Workbench%2Fgov-portals-data%2Fblob%2Fmain%2Fglam-datasets-from-gov-portals.csv&install=datasette-homepage-table&fts=dataset_title%2Cdataset_description%2Cfile_title%2Cfile_description)
 * [Visualise the contents of datasets using the GLAM CSV Explorer](https://glam-workbench.github.io/csv-explorer/)
 * [Search for people in GLAM name indexes](https://glam-workbench.net/name-search/) – aggregated search across 279 datasets, containing more than 11 million rows of data
@@ -12,27 +12,26 @@ These are datasets from a range of GLAM organisations around Australia that have
 ## GLAM data portals & repositories
 
 * [Libraries Tasmania](https://libraries.tas.gov.au/slat/open-data/)
+* [National Archives of Australia historical collection data](https://zenodo.org/communities/naa-historical-data/) (Zenodo)
 * [State Library of Queensland](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
-* [State Library of SA](https://www.slsa.sa.gov.au/open-data-sets)
 * [State Library of Victoria](https://www.slv.vic.gov.au/search-discover/open-data)
 * [SLV LAB](https://lab.slv.vic.gov.au/resources)
 * [State Library of WA](https://slwa.wa.gov.au/collections/wa-open-data)
+* [Trove historical data](https://zenodo.org/communities/trove-historical-data/) (Zenodo)
 * [Western Australian Museum](http://data.museum.wa.gov.au/search/type/dataset)
 
 ## GLAM collection APIs
 
 * [ACMI public API](https://www.acmi.net.au/api/)
 * [Australian War Memorial](https://api.awm.gov.au/#introduction)
-* [Australian Web Archive](https://glam-workbench.github.io/web-archives/) (Memento and CDX API)
-* [Museum of Australian Democracy &ndash; Federal Election Speeches](https://electionspeeches.moadoph.gov.au/explore)
+* [Australian Web Archive](https://glam-workbench.net/web-archives/) (Memento and CDX API)
 * [Museums Victoria](https://collections.museumsvictoria.com.au/developers)
 * [National Museum of Australia](https://www.nma.gov.au/about/our-collection/our-apis)
 * [PM Transcripts: Transcripts from the Prime Ministers of Australia](https://pmtranscripts.pmc.gov.au/developers)
 * [Public Record Office Victoria Collection API](https://prov.vic.gov.au/prov-collection-api)
 * [Public Record Office Victoria MapWarper API](https://mapwarper.prov.vic.gov.au/api/v1/)
 * [State Library of NSW, Social Media Archive API](https://socialmediaarchive.sl.nsw.gov.au/docs/)
-* [Trove](https://trove.nla.gov.au/about/create-something/using-api) – explore using the [Trove API Console](https://troveconsole.herokuapp.com/)
-* [Trove People and Organisations](https://trove.nla.gov.au/about/create-something/using-api/people-and-organisations-data)
+* [Trove](https://trove.nla.gov.au/about/create-something/using-api)
 * [Victorian Collections API](https://victoriancollections.net.au/about/api)
 * [Victorian Heritage Database API](https://api.heritagecouncil.vic.gov.au/documentation/VHD-v1)
 
@@ -40,14 +39,12 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ### Full text
 
-* [Department of Prime Minister & Cabinet – Prime Ministers transcripts](https://github.com/wragge/pm-transcripts) 
-* [Museum of Australian Democracy – Federal Election speeches](https://electionspeeches.moadoph.gov.au/explore)
-* [National Archives of Australia – Real Face of White Australia transcribed data](https://github.com/wragge/realface-data)
+* [Department of Prime Minister & Cabinet – Prime Ministers transcripts](https://github.com/GLAM-Workbench/pm-transcripts-data) 
+* Museum of Australian Democracy – Federal Election speeches (currently unavailable)
 * [Parliamentary Library – Commonwealth Parliamentary Debates (Hansard), 1901-2005](https://github.com/wragge/hansard-xml)
 * [Parliamentary Library – Hansard interjections](https://github.com/wragge/hansard-interjections)
 * [Trove – OCRd text from digitised books (and ephemera)](https://glam-workbench.net/trove-books/ocrd-text-from-trove-books/)
 * [Trove – OCRd text of digitised journals](https://glam-workbench.net/trove-journals/ocrd-text-all-journals/)
-* [Trove & Internet Archive – OCRd text from the Internet Archive of 'Australian' books listed in Trove](https://glam-workbench.net/trove-books/ocrd-text-from-ia/)
 * [Trove & Parliamentary Library – parliamentary press releases relating to COVID-19](https://glam-workbench.net/trove-government/trove-parliament-press-releases-covid/)
 * [Trove & Parliamentary Library – parliamentary press releases relating to immigrants and refugees](https://glam-workbench.net/trove-government/trove-parliament-press-releases-refugees/)
 
@@ -61,15 +58,14 @@ These are datasets from a range of GLAM organisations around Australia that have
 ### Metadata
 
 * [ANU Archives &ndash; Sydney Stock Exchange records](https://glam-workbench.net/anu-archives/#data-files)
-* [National Archives of Australia – files withheld from public access in 2017](https://doi.org/10.6084/m9.figshare.5900125.v1)
-* [National Archives of Australia – files withheld from public access in 2016](https://doi.org/10.6084/m9.figshare.4530851.v1)
-* [National Archives of Australia – files withheld from public access in 2015](https://doi.org/10.6084/m9.figshare.2060052.v1)
-* [National Archives of Australia – recently digitised files in National Archives of Australia – repository of weekly snapshots](https://glam-workbench.net/recordsearch/#recently-digitised-files-repository-of-weekly-snapshots)
-* [National Archives of Australia – series in the National Archives of Australia with content recorded by the Australian Security Intelligence Organisation (ASIO)](https://glam-workbench.github.io/naa-asio/#data)
-* [National Archives of Australia – series in the National Archives of Australia relating to the White Australia Policy](https://glam-workbench.github.io/naa-wap/#data)
-* [National Archives of Australia – summary data about all series in the National Archives of Australia](https://glam-workbench.net/recordsearch/#summary-data-about-all-series-in-recordsearch)
 * [NSW State Archives indexes](https://glam-workbench.net/nsw-state-archives/index-repository/)
 * [State Library of NSW – Tribune negatives collection – all item level records (Series 1-4)](https://doi.org/10.6084/m9.figshare.5971210.v1)
+
+#### National Archives of Australia
+
+- [Files digitised by the National Archives of Australia since 2021](https://doi.org/10.5281/zenodo.14744049) 
+- [Records held by the National Archives of Australia with the access status of 'closed' – annual harvests from 2016 to 2025](https://doi.org/10.5281/zenodo.14769171)
+- [Summary statistics of series held by the National Archives of Australia, 2016 to 2025](https://doi.org/10.5281/zenodo.20281169)
 
 #### Trove books
 
@@ -77,9 +73,9 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 #### Trove contributors
 
-* [List of organisations contributing metadata](https://glam-workbench.net/trove-contributors/trove-contributors-list/) (updated weekly)
-* [Count of records by contributor and zone](https://glam-workbench.net/trove-contributors/trove-contributors-zones/) (updated weekly)
-* [Count of records by contributor, zone, and format](https://glam-workbench.net/trove-contributors/trove-contributors-formats/) (updated weekly)
+* [List of organisations contributing metadata](https://glam-workbench.net/trove-contributors/trove-contributors-list/)
+* [Count of records by contributor and zone](https://glam-workbench.net/trove-contributors/trove-contributors-zones/) 
+* [Count of records by contributor, zone, and format](https://glam-workbench.net/trove-contributors/trove-contributors-formats/)
 
 #### Trove government
 
@@ -110,7 +106,7 @@ These are datasets from a range of GLAM organisations around Australia that have
 #### Trove newspapers
 
 * [Historical snapshots of newspaper totals](https://doi.org/10.5281/zenodo.6471544)
-* [Snapshots of newspaper data](https://github.com/wragge/trove-newspaper-totals) (updated weekly)
+* [Snapshots of newspaper data](https://github.com/wragge/trove-newspaper-totals)
 * [Data about newspaper issues](https://glam-workbench.net/trove-newspapers/data-newspaper-issues/)
 * [Data from web archives showing when digitised newspaper titles were added to Trove](https://glam-workbench.net/trove-newspapers/csv-newspaper-titles-from-web-archives/)
 * [OCR corrections in Trove newspapers](https://glam-workbench.net/trove-newspapers/csv-newspapers-corrections/)
@@ -139,13 +135,17 @@ These are datasets from a range of GLAM organisations around Australia that have
 
 ## Other portals providing access to machine-readable GLAM data
 
-* [Atlas of Living Australia](https://support.ala.org.au/support/solutions/articles/6000196777-ala-api-how-to-access-ala-web-services) (API)
+* [Atlas of Living Australia](https://docs.ala.org.au/) (API)
 * [AusStage](https://www.ausstage.edu.au/pages/learn/about/data-sharing.html) (API)
 * [Australian Data Archive](https://ada.edu.au/)
 * [Biodiversity Heritage Library](https://about.biodiversitylibrary.org/tools-and-services/developer-and-data-tools/) (API)
+* [Federal Register of Legislation](https://www.legislation.gov.au/help-and-resources/using-the-legislation-register/data-share-and-reuse) (API)
 * [Gazetteer of Historical Australian Placenames](https://www.tlcmap.org/guides/ghap/#ws) (API)
-* [HuNI](https://bitbucket.org/huniteam/documentation/wiki/API) (API)
+* [HuNI](https://huni.net.au)
 * [Language Data Commons of Australia](https://data.ldaca.edu.au/search)
+* [PARADISEC (Pacific And Regional Archive for Digital Sources in Endangered Cultures)](https://catalog.paradisec.org.au)
+* [Parliamentary Handbook of the Commonwealth of Australia](https://handbook.aph.gov.au)
+
 
 ## Zotero compatibility
 
